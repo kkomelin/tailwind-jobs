@@ -78,7 +78,7 @@ Some of the challenges that we expect to face on that project include:
 
 This is a fully remote, full-time _(40 hour per week)_ position, and you can choose your own hours. All we ask is that you plan to overlap around ~4 hours per day with 8am-5pm EST because I am sick of always programming by myself.
 
-The salary for this position is between <React.Fragment children="$"/>115,000 — <React.Fragment children="$"/>135,000 USD _(or <React.Fragment children="$"/>160,000 – <React.Fragment children="$"/>195,000 CAD)_ based on experience, paid in your local currency. We'll do the currency conversion when you're hired and deal with any exchange fluctuation on our side.
+The salary for this position is between $115,000 — $135,000 USD _(or $160,000 – $195,000 CAD)_ based on experience, paid in your local currency. We'll do the currency conversion when you're hired and deal with any exchange fluctuation on our side.
 
 The position includes 4 weeks _(20 days)_ of paid time off, plus 10 additional days for local national holidays. You're also free to take additional time off here and there as needed for any reasonable reason, like of course if you are sick, but also if you need the morning off to take your pet to the vet, or need an afternoon off to drive a loved one to the airport, whatever. At the end of the day all that matters to us is that we're making progress on what we're building together — we're not interested in tracking time.
 

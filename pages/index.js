@@ -136,7 +136,7 @@ export default function JobPosting({ jobs }) {
           <div className="py-8 space-y-10">
             <h1 className="text-3xl leading-9 font-bold text-gray-900">Job Postings</h1>
             <div>
-              <ul class="space-y-4">
+              <ul className="space-y-4">
                 {jobs.map((job) => {
                   return (
                     <li key={job.path}>

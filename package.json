@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && cp _redirects out/_redirects",
+    "build": "next build && next export && node tools/generate-sitemap.js && cp _redirects out/_redirects",
     "start": "next start"
   },
   "dependencies": {
@@ -16,6 +16,7 @@
     "front-matter": "^3.2.1",
     "marked": "^1.0.0",
     "next": "9.4.0",
+    "nextjs-sitemap-generator": "^1.0.0",
     "postcss-nesting": "^7.0.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",

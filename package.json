@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && node tools/generate-sitemap.js && cp _redirects out/_redirects",
+    "build": "next build && next export && npm run build:sitemap && npm run build:redirects",
+    "build:redirects": "cp _redirects out/_redirects",
+    "build:sitemap": "node tools/generate-sitemap.js",
     "start": "next start"
   },
   "dependencies": {

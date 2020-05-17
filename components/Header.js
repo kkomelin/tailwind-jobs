@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import HeadquartersIcon from '../icons/headquarters.svg';
-import SizeIcon from '../icons/size.svg';
+import HeadquartersIcon from 'heroicons/dist/solid-sm/sm-office-building.svg'
+import SizeIcon from 'heroicons/dist/solid-sm/sm-user-group.svg'
 
 export default function Header() {
   return (

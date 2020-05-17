@@ -2,10 +2,10 @@ import Head from 'next/head'
 import Layout from '@/components/Layout'
 import Header from '@/components/Header'
 import { format } from 'date-fns'
-import ClosingDateIcon from '../icons/closing-date.svg'
-import EmploymentIcon from '../icons/employment.svg'
-import LocationIcon from '../icons/location.svg'
-import SalaryIcon from '../icons/salary.svg'
+import ClosingDateIcon from 'heroicons/dist/solid-sm/sm-calendar.svg'
+import EmploymentIcon from 'heroicons/dist/solid-sm/sm-briefcase.svg'
+import LocationIcon from 'heroicons/dist/solid-sm/sm-location-marker.svg'
+import SalaryIcon from 'heroicons/dist/solid-sm/sm-currency-dollar.svg'
 
 export default function JobPosting({ children, job: { metadata, body } }) {
   return (

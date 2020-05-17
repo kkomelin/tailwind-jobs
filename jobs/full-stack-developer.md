@@ -1,6 +1,6 @@
 ---
 title: 'Full-Stack Developer'
-subtitle: 'Help define and build the future of our developer tools and products.'
+subtitle: 'Help us design and build more awesome UI tools for developers.'
 jobType: 'Full-time'
 location: ['Remote', 'North America']
 salary: ['$115,000 – $135,000 USD', '$160,000 – $195,000 CAD']
